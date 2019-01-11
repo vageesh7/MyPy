@@ -1,6 +1,6 @@
 # Python scripts
 
-Assortment of scripts that run on the Pycharm studio to create/update/delete of Employee records using MongoDB on Windows.
+The script that runs on the Pycharm studio to create/update/delete of Employee records using MongoDB on Windows.
 
 
 ## Description
