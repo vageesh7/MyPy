@@ -15,6 +15,7 @@ Similarly, The record will be deleted based on the user input and displays the c
 **Windows**: You will need to install one of the 3.x versions available at [python.org](http://www.python.org/getit/).
 
 **PyCharm**: You will need to install one of the latest versions (2018) available at (https://www.jetbrains.com/pycharm/download/#section=windows)
+
 **MongoDB**: You will need to install one of the 3.x versions or current release available at (https://www.mongodb.com/download-center/community)
 
 
